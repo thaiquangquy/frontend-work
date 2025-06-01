@@ -1,0 +1,25 @@
+- container
+  - fluid = 100% width
+  - could apply breakpoint for fluid
+
+- ROW
+  - row-cols-* only applicable for col only, setting col-* will override its behavior
+  - if col width is more than 12, other col in row will be wrap
+
+- TABLE
+  - Could apply table class to header, row, cell
+
+- FORM
+  - Use form-control class to use bootstrap style for control
+  - Use form-group to group releated form control together with some behavior
+  - Able to place feedback or tooltip after input with validation
+
+- BUTTON
+  - Several color for button custom, "btn" class is a must for styling
+  - Fill button, outline button, toogle button are supported
+  - Group button together with "btn-group" could help to generate some beautiful style
+
+SideNote app
+- take section from youtube video
+- create predefine section
+- choose output format as txt or md
